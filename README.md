@@ -41,4 +41,4 @@
 2. GitHub Actions triggers
 3. Files are SCP'd to EC2
 4. NGINX is reloaded
-5. App is live at `http://<EC2_PUBLIC_IP>`
+5. App is live at `http://65.1.64.159/`
