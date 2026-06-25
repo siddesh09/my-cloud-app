@@ -2,7 +2,8 @@
 # AWS EC2 + NGINX Deployment with Terraform & GitHub Actions
 
 ## Architecture
-[Insert the architecture diagram image here]
+<img width="1440" height="1200" alt="WhatsApp Image 2026-06-25 at 4 52 35 PM" src="https://github.com/user-attachments/assets/5ebabf3a-db17-4a59-941a-f9bf3f32d60c" />
+
 
 ## Stack
 - **App**: Static HTML served by NGINX
